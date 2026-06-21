@@ -1,0 +1,18 @@
+# large raw files — too big for GitHub
+data/raw.csv
+data/roads_cache.graphml
+
+# virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# packed archive
+*.rar
+*.zip

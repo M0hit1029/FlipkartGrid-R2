@@ -1,0 +1,36 @@
+day,window,rank,CIS,station,exp_violations,driver
+Mon,Morning peak,6,70.2,Upparpet,34.2,Event venue
+Mon,Night,5,70.3,City Market,27.4,Market / mall
+Mon,Morning peak,7,70.0,Shivajinagar,25.9,School / college
+Mon,Morning peak,43,62.1,Shivajinagar,24.7,Market / mall
+Mon,Night,25,65.5,Upparpet,20.2,Market / mall
+Tue,Night,5,70.3,City Market,36.2,Market / mall
+Tue,Morning peak,6,70.2,Upparpet,35.3,Event venue
+Tue,Night,35,63.1,HAL Old Airport,34.8,School / college
+Tue,Morning peak,35,63.1,HAL Old Airport,28.5,School / college
+Tue,Night,25,65.5,Upparpet,21.2,Market / mall
+Wed,Night,5,70.3,City Market,34.9,Market / mall
+Wed,Morning peak,35,63.1,HAL Old Airport,23.5,School / college
+Wed,Morning peak,6,70.2,Upparpet,22.4,Event venue
+Wed,Night,6,70.2,Upparpet,21.8,Event venue
+Wed,Night,35,63.1,HAL Old Airport,19.6,School / college
+Thu,Night,35,63.1,HAL Old Airport,31.9,School / college
+Thu,Night,5,70.3,City Market,31.3,Market / mall
+Thu,Morning peak,6,70.2,Upparpet,30.8,Event venue
+Thu,Morning peak,35,63.1,HAL Old Airport,24.3,School / college
+Thu,Night,25,65.5,Upparpet,22.4,Market / mall
+Fri,Night,35,63.1,HAL Old Airport,38.7,School / college
+Fri,Night,5,70.3,City Market,27.7,Market / mall
+Fri,Night,25,65.5,Upparpet,27.4,Market / mall
+Fri,Morning peak,6,70.2,Upparpet,26.1,Event venue
+Fri,Night,6,70.2,Upparpet,21.0,Event venue
+Sat,Night,6,70.2,Upparpet,38.9,Event venue
+Sat,Morning peak,6,70.2,Upparpet,34.7,Event venue
+Sat,Night,35,63.1,HAL Old Airport,33.4,School / college
+Sat,Night,5,70.3,City Market,22.8,Market / mall
+Sat,Night,25,65.5,Upparpet,22.3,Market / mall
+Sun,Morning peak,9,69.2,Shivajinagar,39.6,School / college
+Sun,Morning peak,7,70.0,Shivajinagar,37.4,School / college
+Sun,Morning peak,6,70.2,Upparpet,33.7,Event venue
+Sun,Night,5,70.3,City Market,31.5,Market / mall
+Sun,Night,25,65.5,Upparpet,23.0,Market / mall
